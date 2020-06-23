@@ -6,8 +6,8 @@ import (
 	"sync"
 	"time"
 
+	"github.com/edieruby/session/v3"
 	"github.com/go-redis/redis"
-	"github.com/go-session/session"
 )
 
 var (
