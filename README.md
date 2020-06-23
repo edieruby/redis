@@ -7,7 +7,7 @@
 ### Download and install
 
 ```bash
-$ go get -u -v github.com/go-session/redis
+github.com/edieruby/redis/v3
 ```
 
 ### Create file `server.go`
